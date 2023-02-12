@@ -1,0 +1,3 @@
+
+    long long a[n];
+    
